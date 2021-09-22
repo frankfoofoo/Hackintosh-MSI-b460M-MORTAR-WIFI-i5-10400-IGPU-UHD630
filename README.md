@@ -4,13 +4,13 @@
 
 <img width="698" alt="截屏2021-09-23 上午2 03 56" src="https://user-images.githubusercontent.com/71075978/134397872-3fde835a-77ac-4664-a2c5-4c4e641e400a.png">
 
-#### 主板:b460m-mortar-wifi
+#### 主板：b460m-mortar-wifi
 
-#### CPU:i5-10400
+#### CPU：i5-10400
 
-#### SSD:sn750 1t
+#### SSD：sn750 1t
 
-#### IGPU:uhd630
+#### IGPU：uhd630
 
 #### WIFI/蓝牙：正常
 
