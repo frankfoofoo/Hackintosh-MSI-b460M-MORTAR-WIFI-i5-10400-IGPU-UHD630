@@ -1,7 +1,4 @@
-# Hackintosh-MSI-b460M-MORTAR-WIFI-i5-10400-IGPU-UHD630
-微星b460m迫击炮wifi黑苹果efi
-
-## OpenCore0.73
+# OpenCore0.73
 
 ### 注意！请自行添加三码！
 
