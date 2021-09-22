@@ -1,6 +1,8 @@
 # OpenCore0.73
 
-### 注意！请自行添加三码！目前能驱动的都驱动了，所有内核扩展都为最新版。
+### 注意！请自行添加三码！支持最新Big Sur 11.6。目前能驱动的都驱动了，所有内核扩展都为最新版。
+
+<img width="698" alt="截屏2021-09-23 上午2 03 56" src="https://user-images.githubusercontent.com/71075978/134397872-3fde835a-77ac-4664-a2c5-4c4e641e400a.png">
 
 #### ·主板:b460m-mortar-wifi
 
